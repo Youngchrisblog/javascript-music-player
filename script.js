@@ -170,3 +170,4 @@ mainCard.addEventListener("mouseleave", () => {
   songImg.style.transform = "rotate(0deg)";
   controlButtons.style.transform = "rotate(0deg)";
 });
+
